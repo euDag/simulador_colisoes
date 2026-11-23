@@ -1,0 +1,7 @@
+# Formato: x y vx vy massa raio
+# Linhas com # e linhas em branco são ignoradas
+# Use 'auto' em x e y para sortear uma posição inicial livre
+
+200 300 280 0 2.0 25
+600 320 -100 0 6.0 40
+450 320 -180 0 6.0 40
